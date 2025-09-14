@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**emmanuelnanaduodu99/emmanuelnanaduodu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+Strategic Data Engineer | AI & MLOps  Architect | Cloud Migration Lead  
+Certified in AWS AI & ML, Columbia AI Visualization, and IBM SkillsBuild.  
+Specialized in agentic automation, predictive analytics, and scalable freelance solutions for global clients.
 
-Here are some ideas to get you started:
+## 🏆 Achievements
+- Migrated 975PB+ data from Teradata to GCP BigQuery.
+- Reduced decision latency by 30% with predictive dashboards.
+- Selected for AWS AI & ML Scholars Challenge (2025).
+- Engineered modular ETL automation using Python and CI/CD pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Skills
+GCP | BigQuery | Python | SQL | LangChain | MLflow | Power BI | Data Lake | Data Mesh | CI/CD | KPI Dashboards | Data Governance
