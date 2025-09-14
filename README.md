@@ -13,6 +13,11 @@ Specialized in agentic automation, predictive analytics, and scalable freelance 
   
 ## 🏆Certifications
 ![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
+![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
+![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
+![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
+![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
+![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
 
 
 ## 🔧 Tools & Skills
