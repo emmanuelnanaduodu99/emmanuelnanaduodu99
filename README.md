@@ -12,12 +12,12 @@ Specialized in agentic automation, predictive analytics, and scalable freelance 
 - Engineered modular ETL automation using Python and CI/CD pipelines.
   
 ## 🏆Certifications
+![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL1.png)
+![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL2.png)
+![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL3.png)
 ![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
-![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
-![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
-![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
-![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
-![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
+![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL5.png)
+![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL6.png)
 
 
 ## 🔧 Tools & Skills
