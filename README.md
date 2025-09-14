@@ -12,11 +12,8 @@ Specialized in agentic automation, predictive analytics, and scalable freelance 
 - Engineered modular ETL automation using Python and CI/CD pipelines.
   
 ## 🏆Certifications
-
 ![AWS AI & ML Scholars]("C:\Users\EMMANUEL DUODU\Desktop\QRI\AWSX_UDAXITY_BOOTCAMP\Certification Badge 10_1.jpg")
-![Columbia AI Badge](https://img.shields.io/badge/Columbia-AI_Visualization-yellow)
-![IBM SkillsBuild](https://img.shields.io/badge/IBM-SkillsBuild_AI-green)
-![Databricks Fundamentals](https://img.shields.io/badge/Databricks-Lakehouse_Fundamentals-red)
+
 
 ## 🔧 Tools & Skills
 GCP | BigQuery | Python | SQL | LangChain | MLflow | Power BI | Data Lake | Data Mesh | CI/CD | KPI Dashboards | Data Governance
