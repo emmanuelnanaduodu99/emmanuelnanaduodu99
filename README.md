@@ -12,7 +12,7 @@ Specialized in agentic automation, predictive analytics, and scalable freelance 
 - Engineered modular ETL automation using Python and CI/CD pipelines.
   
 ## 🏆Certifications
-![AWS AI & ML Scholars]("C:\Users\EMMANUEL DUODU\Desktop\QRI\AWSX_UDAXITY_BOOTCAMP\Certification Badge 10_1.jpg")
+![Columbia AI Badge](C:\Users\EMMANUEL DUODU\Desktop\IMAGES)
 
 
 ## 🔧 Tools & Skills
