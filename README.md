@@ -12,7 +12,7 @@ Specialized in agentic automation, predictive analytics, and scalable freelance 
 - Engineered modular ETL automation using Python and CI/CD pipelines.
   
 ## 🏆Certifications
-![Columbia AI Badge](C:\Users\EMMANUEL DUODU\Desktop\IMAGES\COLUMBIA_UNIVERSITY_LEVEL4.png)
+![Columbia University Level 4](images/COLUMBIA_UNIVERSITY_LEVEL4.png)
 
 
 ## 🔧 Tools & Skills
