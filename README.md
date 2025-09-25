@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ## 👋 About Me
-Strategic Data Engineer | AI & MLOps  Architect | Cloud Migration Lead  
-Certified in AWS AI & ML, Columbia AI Visualization, and IBM SkillsBuild.  
+Strategic Data Engineer | AI & MLOps  Architect | Cloud Migration Lead  Certified in AWS AI & ML, Columbia AI Visualization, and IBM SkillsBuild. 
 Specialized in agentic automation, predictive analytics, and scalable freelance solutions for global clients.
 
 ## 🚀 Achievements
